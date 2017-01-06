@@ -34,7 +34,7 @@ repo:
 repo:
 
 ### Matt DeMarteau
-repo:
+repo: https://github.com/MDes41/mod_3_assessment
 
 ### Megan Talbot
 repo:
